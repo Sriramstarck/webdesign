@@ -1,2 +1,2 @@
-# webdesign
+# webdesign.github.io
 web development
